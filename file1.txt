@@ -1,5 +1,6 @@
-This is the first line..
+This the first line..
 
 Adding second line to modify the file...
 
-Adding another line in newbranch..--- modified in master branch
+Adding another line in newbranch..--- modified to resolve merge conflict 
+
